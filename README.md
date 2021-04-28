@@ -1,6 +1,7 @@
 ### Hi there, I'm Abhijeet Tamrakar - aka [mrcchef][linkedin] 👋
 
 - 🎓 I'm a 2nd year student at IIITV 
+- ⭐ I'm 4 🌟 at Codechef and Specialist at Codeforces
 - 🌱 I’m currently deep diving in Competitive Programming and Flutter
 - 👯 I’m looking to collaborate on flutter open source projects
 - 🥅 2021 Goals: GG on Graphs and DP
@@ -32,9 +33,9 @@
 
 ---
 
-### Github Stats
+### Github Statistics:
 
-[![mrcchef's Github Stats](https://github-readme-stats.vercel.app/api?username=mrcchef&count_private=true&theme=default&show_icons=true)](https://github.com/techieblossom)
+[![mrcchef's Github Stats](https://github-readme-stats.vercel.app/api?username=mrcchef&count_private=true&theme=default&show_icons=true)](https://github.com/mrcchef)
 
 ---
 
