@@ -32,25 +32,11 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-2. 🗣 Commented on [#1](https://github.com/codeSTACKr/spotify-now-playing/issues/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-3. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
+### Github Stats
 
-</details>
+[![mrcchef's Github Stats](https://github-readme-stats.vercel.app/api?username=mrcchef&count_private=true&theme=default&show_icons=true)](https://github.com/techieblossom)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="mrcchef's GitHub Stats" src="https://github-readme-stats.mrcchef.vercel.app/api?username=mrcchef&show_icons=true&hide_border=true" />
-
-</details>
+---
 
 [twitter]: https://twitter.com/mr_cchef
 [instagram]: https://www.instagram.com/mr_cchef/
