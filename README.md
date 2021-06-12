@@ -38,6 +38,11 @@
 [![mrcchef's Github Stats](https://github-readme-stats.vercel.app/api?username=mrcchef&count_private=true&theme=default&show_icons=true)](https://github.com/mrcchef)
 
 ---
+### ⚡  Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcchef&theme=default&show_icons=true">
+
+---
 
 [twitter]: https://twitter.com/mr_cchef
 [instagram]: https://www.instagram.com/mr_cchef/
