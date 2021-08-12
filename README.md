@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhijeet Tamrakar - aka [mrcchef][linkedin] 👋
 
-- 🎓 I'm a 2nd year student at IIITV 
+- 🎓 I'm a 3rd year student at IIITV 
 - ⭐ I'm 4 🌟 at CodeChef and Specialist at Codeforces
 - 🌱 I’m currently deep diving in Competitive Programming and Flutter
 - 👯 I’m looking to collaborate on flutter open source projects
