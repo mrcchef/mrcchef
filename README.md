@@ -1,10 +1,10 @@
 ### Hi there, I'm Abhijeet Tamrakar - aka [mrcchef][linkedin] 👋
 
 - 🎓 I'm a 3rd year student at IIITV 
-- ⭐ I'm 4 🌟 at CodeChef and Expert at Codeforces
+- ⭐ I'm 5 🌟 at CodeChef and Expert at Codeforces
 - 🌱 I’m currently deep diving in Competitive Programming and Flutter
 - 👯 I’m looking to collaborate on flutter open source projects
-- 🥅 2021 Goals: GG on Graphs and DP
+- 🥅 2022 Goals: GG on Graphs and DP
 - ⚡ Fun fact: GG stands for Good Grab 😂
 
 
