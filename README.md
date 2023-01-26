@@ -4,7 +4,7 @@
 - 🌱 I'm a SDE Intern at Media.net
 - ⭐ I'm 5 🌟 at CodeChef and Expert at Codeforces
 - 👯 I’m looking to collaborate on flutter open source projects
-- 🥅 2023 Goals: Excell at my work and Learn a bit of Dance
+- 🥅 2023 Goals: Excel at my work and Learn a bit of Dance
 <!-- - ⚡ Fun fact: GG stands for Good Grab 😂 -->
 
 
